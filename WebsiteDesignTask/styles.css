@@ -1,0 +1,70 @@
+body {
+  background-color: #efd9ca;
+}
+
+.headline {
+  position: relative;
+  margin-left: 5rem;
+  font-family: "Koulen", cursive;
+}
+
+.sections {
+  border: 2px solid gray;
+  align-content: center;
+  padding: 1.5rem;
+  margin-left: 5rem;
+  margin-right: 5rem;
+}
+
+.title {
+  font-family: "Playfair Display", serif;
+}
+
+.colors {
+  display: inline-block;
+  position: relative;
+  padding: 10px 100px;
+  margin-bottom: 2rem;
+  margin-right: 2rem;
+
+  color: rgb(255, 253, 253);
+}
+
+#red {
+  background-color: #d20117;
+}
+#blue {
+  background-color: #005477;
+}
+#green {
+  background-color: #92e4af;
+}
+
+.colors p {
+  font-family: "Macondo", cursive;
+}
+
+.fonts {
+  display: inline-block;
+  position: relative;
+  margin-right: 2rem;
+}
+
+.fonts h2 {
+  text-decoration: underline;
+}
+
+.fonts p {
+  color: rgba(0, 0, 0, 0.692);
+}
+
+#macondo {
+  font-family: "Macondo", cursive;
+}
+
+#koulen {
+  font-family: "Koulen", cursive;
+}
+#playfair {
+  font-family: "Playfair Display", serif;
+}
